@@ -57,8 +57,8 @@
 
 ```bash
 # 克隆仓库
-git clone https://github.com/luckcxy2025/awesome-knowledge-base-openclaw.git
-cd awesome-openclaw-lab
+git clone https://github.com/fxdhy/awesome-knowledge-base-openclaw.git
+cd awesome-knowledge-base-openclaw
 ```
 
 
